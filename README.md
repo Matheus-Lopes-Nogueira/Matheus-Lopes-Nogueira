@@ -10,6 +10,7 @@ Estou pronto para contribuir com projetos de dados, aprender com profissionais e
 
 Contatos:
 WhatsApp: +55 11 975454917
+
 Linkedin: [https://github.com/Matheus-Lopes-Nogueira](https://www.linkedin.com/in/matheus-lopes-nogueira-lima)
 
 
