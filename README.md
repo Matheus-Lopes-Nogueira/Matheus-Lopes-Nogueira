@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Olá! Meu nome é Matheus Lopes! 👋
 
-Olá! Sou Matheus Lopes, iniciante em Ciência de Dados com formação pela EBAC e apaixonado por tecnologia, dados e soluções automatizadas. Estou em transição de carreira e busco minha primeira oportunidade na área.
+Sou iniciante em Ciência de Dados com formação pela EBAC e apaixonado por tecnologia, dados e soluções automatizadas. Estou em transição de carreira e busco minha primeira oportunidade na área.
 
 Tenho conhecimento prático em Python, SQL e Programação Orientada a Objetos (POO), além de domínio em bibliotecas como Pandas e NumPy para análise e manipulação de dados. Também atuo com visualizações em Power BI e matplotlib, e sei lidar com Banco de Dados relacionais como MySQL e PostgreSQL.
 
