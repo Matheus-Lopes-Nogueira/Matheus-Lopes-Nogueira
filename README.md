@@ -1,10 +1,59 @@
-## Olá! Meu nome é Matheus Lopes! 👋
+# 👩🏻‍💻 Olá! Meu nome é Matheus Lopes! 👋
+
+Olá! Sou Matheus Lopes, iniciante em Ciência de Dados com formação pela EBAC e apaixonado por tecnologia, dados e soluções automatizadas. Estou em transição de carreira e busco minha primeira oportunidade na área.
+
+Tenho conhecimento prático em Python, SQL e Programação Orientada a Objetos (POO), além de domínio em bibliotecas como Pandas e NumPy para análise e manipulação de dados. Também atuo com visualizações em Power BI e matplotlib, e sei lidar com Banco de Dados relacionais como MySQL e PostgreSQL.
+
+Atualmente trabalho na área administrativa, o que me deu experiência com organização, trabalho em equipe, automação de rotinas e gestão de informações — habilidades que reforçam minha atuação como cientista de dados em formação.
+
+Estou pronto para contribuir com projetos de dados, aprender com profissionais experientes e transformar dados em valor real para empresas
+
+Contatos:
+WhatsApp: +55 11 975454917
+Linkedin: [https://github.com/Matheus-Lopes-Nogueira](https://www.linkedin.com/in/matheus-lopes-nogueira-lima)
 
 
-- 🔭 Hoje eu busco oportunidades na area de Ciencia de Dados
-- 🌱 Estudando Engenharia de Software
-- 📫 Contate-me no email: matheuslnl@gmail.com
-- 😄 Pronouns: ele/dele
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-light-mode-only)
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Jupyter" 
+    title="Jupyter"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"   
+/>
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
