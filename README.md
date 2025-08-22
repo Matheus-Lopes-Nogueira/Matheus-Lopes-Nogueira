@@ -6,7 +6,7 @@ Tenho conhecimento prático em Python, SQL e Programação Orientada a Objetos (
 
 Atualmente trabalho na área administrativa, o que me deu experiência com organização, trabalho em equipe, automação de rotinas e gestão de informações — habilidades que reforçam minha atuação como cientista de dados em formação.
 
-Estou pronto para contribuir com projetos de dados, aprender com profissionais experientes e transformar dados em valor real para empresas
+Estou pronto para contribuir com projetos de dados, aprender com profissionais experientes e transformar dados em valor real para empresas.
 
 Contatos:
 WhatsApp: +55 11 975454917
