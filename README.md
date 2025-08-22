@@ -1,7 +1,7 @@
 ## Olá! Meu nome é Matheus Lopes! 👋
 
 
-- 🔭 Hoje eu t
+- 🔭 Hoje eu busco oportunidades na area de Ciencia de Dados
 - 🌱 Estudando Engenharia de Software
 - 📫 Contate-me no email: matheuslnl@gmail.com
 - 😄 Pronouns: ele/dele
