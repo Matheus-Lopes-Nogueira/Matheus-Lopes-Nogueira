@@ -2,7 +2,7 @@
 
 Sou iniciante em Ciência de Dados com formação pela EBAC e apaixonado por tecnologia, dados e soluções automatizadas. Estou em transição de carreira e busco minha primeira oportunidade na área.
 
-Tenho conhecimento prático em Python, SQL e Programação Orientada a Objetos (POO), além de domínio em bibliotecas como Pandas e NumPy para análise e manipulação de dados. Também atuo com visualizações em Power BI e matplotlib, e sei lidar com Banco de Dados relacionais como MySQL e PostgreSQL.
+Tenho conhecimento prático em Python, SQL e Programação Orientada a Objetos (POO), além de domínio em bibliotecas como Pandas e NumPy para análise e manipulação de dados. Também atuo com Power BI e matplotlib, e sei lidar com Banco de Dados relacionais como MySQL e PostgreSQL.
 
 Atualmente trabalho na área administrativa, o que me deu experiência com organização, trabalho em equipe, automação de rotinas e gestão de informações — habilidades que reforçam minha atuação como cientista de dados em formação.
 
